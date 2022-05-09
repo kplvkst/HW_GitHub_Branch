@@ -1,0 +1,12 @@
+ID: 12345
+Summary: qwerty
+Project: 123qwe
+Version: b-123
+Severity: Major
+Priority: High
+Steps: 
+1.abc 
+2.def
+ER: qwer
+AR: rewq
+Constructor: Konstantin
