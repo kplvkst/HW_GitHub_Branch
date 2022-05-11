@@ -16,7 +16,7 @@ git branch Charles
 git branch Mobile_testing
 
 2. Запушить все ветки на внешний репозиторий
-git push --all
+git push origin --all
 3. В ветке Bug_Reports сделать текстовый документ со структурой баг репорта
 git checkout Bug_Reports
 vim bug_report.txt
